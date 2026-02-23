@@ -8,6 +8,9 @@ A comprehensive analysis of the [LLVM Compiler Infrastructure](https://github.co
 
 ## Table of Contents
 
+### Project Report
+- [**LLVM Project Report**](project-report.md) — Concise overview: what LLVM is, what it pioneered, key patterns, and reusable nuggets
+
 ### Architecture
 - [**Overview**](architecture/overview.md) — High-level system architecture, design philosophy, and scale of the project
 - [**Module Map**](architecture/module-map.md) — Detailed breakdown of every directory in the monorepo and `llvm/` subtree
